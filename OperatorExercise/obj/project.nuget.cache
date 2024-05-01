@@ -1,8 +1,13 @@
 {
   "version": 2,
-  "dgSpecHash": "nnFYDdiH4kkWhtXXiRxWcZT3y7bnWzdPwxtD7MzUrk5EXvaMdapeCGG9ruEJEYfujrcRI75ym2//Cbk54S3JJQ==",
+  "dgSpecHash": "wg3qPpHXwP1oN6FEibLwmVeG2xSTgQSqFs1M3os+qFXSotvoULCL7AWb/gtKYAUnMkxYMgZ4+7n7l/WwJXkB2Q==",
   "success": true,
-  "projectFilePath": "C:\\Users\\andre\\OneDrive\\Desktop\\new\\OperatorExercise\\OperatorExercise\\OperatorExercise.csproj",
-  "expectedPackageFiles": [],
+  "projectFilePath": "C:\\Users\\jmvan\\OneDrive\\Desktop\\repos\\Operators-Exercise\\OperatorExercise\\OperatorExercise.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\jmvan\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.29\\microsoft.windowsdesktop.app.ref.6.0.29.nupkg.sha512",
+    "C:\\Users\\jmvan\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.29\\microsoft.netcore.app.ref.6.0.29.nupkg.sha512",
+    "C:\\Users\\jmvan\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.29\\microsoft.aspnetcore.app.ref.6.0.29.nupkg.sha512",
+    "C:\\Users\\jmvan\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\6.0.29\\microsoft.netcore.app.host.win-x64.6.0.29.nupkg.sha512"
+  ],
   "logs": []
 }
